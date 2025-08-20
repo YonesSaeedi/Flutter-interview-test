@@ -28,4 +28,3 @@
 
 همچنین یک فایل به نام style-guide.md وجود دارد که اطلاعات موردنیاز مثل پالت رنگ و فونت‌ها را در اختیارتان می‌گذارد.
 
-[Task source](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
